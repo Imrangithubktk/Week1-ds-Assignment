@@ -1,0 +1,9 @@
+### Execution Steps
+1. Place the dataset file (`2015.csv`) in the appropriate directory or update the file path in cell 4 (`pd.read_csv()`).
+2. Open the notebook using Jupyter Lab or Jupyter Notebook:
+   ```bash
+   jupyter notebook Happiness_csv.ipynb
+Run all cells sequentially to reproduce the visualizations and statistical aggregations.
+
+Conclusion
+This exploratory analysis confirms that regional economic prosperity, healthcare infrastructure, and solid social support systems are tightly coupled with overall life satisfaction. The findings can serve as a foundation for deeper predictive modeling or policy-related insights.
